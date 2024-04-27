@@ -2,9 +2,9 @@
 const data = [
 	{
 		id : "1",
-		question: "what are accordion components?",
+		question: "What are accordion components?",
 		answer:
-			"Accordion components are user interface elements used for organizing and preseting"
+			"Accordion components are user interface elements used for organizing and presenting"
 	},
 	{
 		id : "2",
