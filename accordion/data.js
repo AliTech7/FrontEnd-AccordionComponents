@@ -22,7 +22,7 @@ const data = [
 		id : "4",
 		question: "Can I create an accordion component with a different framework?",
 		answer:
-			"Yes of ciurse, it is very possible to create an accordion"
+			"Yes of course, it is very possible to create an accordion"
 	},
 ];
 export default data;
